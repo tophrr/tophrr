@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/TypeScript-252525?style=flat-square&logo=typescript&logoColor=7FA0D1&labelColor=0A0A0A" alt="TypeScript" />
 <img src="https://img.shields.io/badge/C%2B%2B-252525?style=flat-square&logo=cplusplus&logoColor=7FA0D1&labelColor=0A0A0A" alt="C++" />
 <img src="https://img.shields.io/badge/PostgreSQL-252525?style=flat-square&logo=postgresql&logoColor=7FA0D1&labelColor=0A0A0A" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-252525?style=flat-square&logo=redis&logoColor=7FA0D1&labelColor=0A0A0A" alt="Redis" />
 <img src="https://img.shields.io/badge/Docker-252525?style=flat-square&logo=docker&logoColor=7FA0D1&labelColor=0A0A0A" alt="Docker" />
 <img src="https://img.shields.io/badge/Fedora-252525?style=flat-square&logo=fedora&logoColor=7FA0D1&labelColor=0A0A0A" alt="Fedora" />
 
