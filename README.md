@@ -26,7 +26,6 @@
 
 <img width="72%" alt="Streak" src="https://streak-stats.demolab.com?user=tophrr&hide_border=false&border=252525&background=0A0A0A&stroke=252525&ring=7FA0D1&fire=6EA8FE&currStreakNum=F5F5F5&currStreakLabel=7FA0D1&sideNums=F5F5F5&sideLabels=8C8C8C&dates=6F6F6F" />
 
-<img width="100%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tophrr&bg_color=0A0A0A&color=7FA0D1&line=3F5F92&point=F5F5F5&title_color=F5F5F5&hide_border=false&area=true" />
 
 </div>
 
