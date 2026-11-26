@@ -51,7 +51,6 @@ self-hosted infrastructure on one side, web services and interface design on the
 gets me started, constraints keep me engaged, and most of what lands here ends up offline-first,
 self-hosted, or small enough to hold in one hand.
 
-I like software that lasts, systems I can explain in one paragraph, and the occasional color grade.
 
 ## / projects
 
