@@ -46,10 +46,9 @@
 
 ## / profile
 
-An undergraduate studying informatics, exploring computing across stacks: microcontrollers and
-self-hosted infrastructure on one side, web services and interface design on the other. Curiosity
-gets me started and constraints keep me engaged, so most of it ends up in one of two places: a
-Proxmox box in the corner of the room, or an ESP32 on my desk.
+An undergraduate studying informatics at Universitas Pelita Harapan. I work across the stack:
+Android apps in Kotlin, web services in TypeScript and Python, and the servers they run on. Most
+of the projects here I also deploy and maintain myself, on a homelab or a small VPS.
 
 
 ## / projects
