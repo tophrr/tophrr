@@ -66,17 +66,6 @@ of the projects here I also deploy and maintain myself, on a homelab or a small 
 
 <br />
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tophrr/tophrr/output/github-snake-dark.svg" />
-  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/tophrr/tophrr/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<br />
-
 | BASED IN | FOCUS | NOW | ELSEWHERE |
 | :--- | :--- | :--- | :--- |
 | Tangerang, Indonesia | Full-stack · infrastructure · applied ML | Homelab and Mind-Ur-Set | [chrisg.my.id](https://chrisg.my.id) · [LinkedIn](https://www.linkedin.com/in/christophergijoh) · hello@chrisg.my.id |
