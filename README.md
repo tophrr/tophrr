@@ -48,8 +48,8 @@
 
 An undergraduate studying informatics, exploring computing across stacks: microcontrollers and
 self-hosted infrastructure on one side, web services and interface design on the other. Curiosity
-gets me started, constraints keep me engaged, and most of what lands here ends up offline-first,
-self-hosted, or small enough to hold in one hand.
+gets me started and constraints keep me engaged, so most of it ends up in one of two places: a
+Proxmox box in the corner of the room, or an ESP32 on my desk.
 
 
 ## / projects
